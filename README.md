@@ -51,3 +51,10 @@ def nombremetodo(self):
 -  puedes definir tantos atributos como quieras
 -  puedes definir tantos metodos como necesites 
 - puedes definir tantos parametros en el constructor y en los metodos como necesites
+
+## composicion
+- consiste en la creacion de nuevas clases apartir de otras clases ya existentes que actuan como elementos compositores de la nueva 
+- las clases existentes seran atributos de la nueva clase
+- en poo la composicion significa que entre las dos clases existe una relacion de tipo " tiene un "
+- ejemplo
+   - una coordenada en dos dimensiones esta compuesta por dos valores el valor en el eje de las x y el valor en el eje y , esto podria ser una clase.un cuadrado esta compuesto por 4 coordenadas que son los 4 vertices , esto podria ser una clase que esta comppuesta por 4 clases del objeto coordenada.
