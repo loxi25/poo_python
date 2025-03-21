@@ -110,7 +110,7 @@ def main():
     alumno.setAsignaturas(["Matemáticas", "sistemas", "Inglés"])
     alumno.mostrarAlumno()
 
-    # Crear un profesor
+    # Crear un profesorr
     profesor = Profesor()
     profesor.setNombre("nestor")
     profesor.setApellidos("paez sarmiento")

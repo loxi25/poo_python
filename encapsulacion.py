@@ -56,7 +56,7 @@ def _mostrarcoordenadasV4(self):
 
   
   
-    # metodo para mostrar los vertices
+    # metodo para mostrar los vertice
     def mostrarVertices(self):
         print("El cuadrado esta compuesto por los siguientes vertices: ")
         self.V1.MostrarCoordenada()

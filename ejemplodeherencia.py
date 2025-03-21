@@ -35,7 +35,7 @@ class Automovil(Vehiculo, Maquina):
 # Crear un objeto de Automóvil
 mi_auto = Automovil("Toyota", "Corolla", "Motor de combustión")
 
-# Usar los métodos de las clases base
+# Usar los métodos de las clases bas
 mi_auto.detalles()
 mi_auto.mover()
 mi_auto.encender()

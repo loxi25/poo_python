@@ -1,13 +1,13 @@
 # clase de persona
 
 class persona:
-    # metodo costructor
+    # metodo costructorr
     def __init__(self, Nombre, Apellidos, Edad):
         self.Nombre = Nombre
         self.Apellidos = Apellidos
         self.Edad = Edad
 
-    # metod para mostrar 
+    # metod para mostra
     def Mostrarpersona(self):
         print("nombre" + self.Nombre)
         print("apellido" + self.Apellidos)

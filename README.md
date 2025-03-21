@@ -94,7 +94,7 @@ def nombremetodo(self):
             - Teléfono
 
 ## Actividad:
-- Consulte un ejemplo práctico del uso de herencia múltiple en Python
+- Consulte un ejemplo práctico del uso de herencia múltiple en Pythonn
 
 ### Bibliografía
 Moreno, A. y Córcoles, S.  (2020).  Python práctica.  Herramientas, conceptos y técnicas.  Ediciones de la U.
