@@ -3,10 +3,11 @@
 
 # clase coordenada
 
-class coordenada:
-    def __init__(self, x , y):
+
+def __init__(self, x , y):
         self.X = x
         self.Y = y
+
 
 def mostrarcoordenada(self):
       def mostrarcoordenada(self):
